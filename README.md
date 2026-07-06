@@ -4,8 +4,8 @@
 
 ## Project
 **Project name:** Indos AI LLM  
-**Co-founder:** Ayush (your big bro)  
-**Founder:** Nikihil
+**Co-founder:** AYUSH  
+**Founder:** NIKHIL
 
 This repository is a documentation + structure starter for building an AI LLM at **low/no cost** by leveraging open-source models, running locally (GPU optional), and focusing on practical engineering steps.
 
